@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="save">Сохранить</string>
+    <string name="data_save">Данные сохранены</string>
+</resources>
